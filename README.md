@@ -3,7 +3,7 @@
 This is the official code for **"Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Multiparametric Quantitative MRI"**.
 The related abstract is published at [2023 ISMRM Workshop on Data Sampling & Image Reconstruction](https://www.ismrm.org/workshops/2023/Data/) and [International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting 2023](https://www.ismrm.org/23m/).
 
-The baseline zero-shot learning code is forked from https://github.com/byaman14/ZS-SSL
+The baseline zero-shot learning code is forked from [here](https://github.com/byaman14/ZS-SSL)\
 For dependencies and installation, please follow [here](https://github.com/byaman14/ZS-SSL#installation)
 
 If you have any questions/comments/suggestions, please contact at yjun@mgh.harvard.edu
